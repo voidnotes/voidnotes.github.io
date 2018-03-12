@@ -19,7 +19,7 @@
     <![endif]-->
   </head>
   <body>
-    <div class="page clearfix">
+    <div class="page">
       {%- capture navbar -%}{%- include nav.html -%}{%- endcapture -%}
       {%- assign navbar_lines = navbar | newline_to_br | strip_newlines | split: '<br />' -%}
       {% for line in navbar_lines %}
