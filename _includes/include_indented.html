@@ -1,0 +1,7 @@
+{%- capture included_file -%}{%- include {{ include.file }} -%}{%- endcapture -%}
+{%- assign include_lines = included_file | newline_to_br | strip_newlines | split: '<br />' -%}
+{%- for line in include_lines -%}
+{{ '' }}
+{{ include.indent | default: '' }}{{ line }}
+{%- endfor -%}
+{{ '' }}

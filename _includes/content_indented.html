@@ -1,0 +1,6 @@
+{%- assign content_lines = include.content | newline_to_br | strip_newlines | split: '<br />' -%}
+{%- for line in content_lines -%}
+{{ '' }}
+{{ include.indent | default: '' }}{{ line }}
+{%- endfor -%}
+{{ '' }}
