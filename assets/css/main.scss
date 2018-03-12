@@ -1,0 +1,78 @@
+---
+---
+
+html, body {
+  height: 100%;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+body {
+  background-color: white;
+
+  @media (min-width: 768px) {
+  background-color: #eee;
+  }
+}
+
+.page {
+  margin: 0;
+  padding: 0;
+
+  @media (min-width: 768px) {
+    margin: 54px 108px;
+    padding: 54px 108px;
+  }
+
+  background-color: white;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.navbar-header {
+  width: 100%;
+}
+
+.navbar-title {
+  margin-top: 20px;
+  min-height: 20px;
+  font-size: 22pt;
+}
+
+.navbar-subtitle {
+  margin-top: 15px;
+  min-height: 20px;
+  font-size: 14pt;
+}
+
+.navbar-brand {
+  float: none;
+  margin-left: 0 !important;
+  font-size: inherit !important;
+  padding: 0;
+}
+
+.navbar-toggle {
+  margin-top: 20px;
+  float: none;
+}
+
+@media (min-width: 768px) {
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    margin-top: 11px;
+  }
+
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+}

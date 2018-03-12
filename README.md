@@ -1,2 +1,1 @@
-# voidnotes.github.io
-https://voidnotes.github.io
+# VOID NOTES

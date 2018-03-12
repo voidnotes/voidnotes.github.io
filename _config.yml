@@ -1,0 +1,8 @@
+title: VOID NOTES
+subtitle: Bad Ideas Factory
+description: ''
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
