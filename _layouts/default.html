@@ -5,13 +5,7 @@
     <div class="page">
       {% include include_indented.html file='nav.html' indent='      ' %}
 
-      {% if page.skip_container %}
       {% include content_indented.html content=content indent='      ' %}
-      {% else %}
-      <div class="container">
-        {% include content_indented.html content=content indent='        ' %}
-      </div>
-      {% endif %}
     </div>
 
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
