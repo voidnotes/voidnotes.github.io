@@ -45,7 +45,7 @@ At the end of the show he thanked us for our attendance and said if we want to h
 
 My favourite song last year was Spiderman. Now I think it might be Boa but a video can’t fully transmit how that wall out sound hits you in the chest. Let’s Have the Windows Open has the layers of audio I love and has the experimental side that I think represents Birds of Hell best (doesn’t show the humour element much). Can anyone guess what this one is about?
 
-{% include youtube.html id='zpzdnMl63So' %}
+{% include youtube id='zpzdnMl63So' %}
 
 [Facebook](https://www.facebook.com/Birds-Of-Hell-389667241148381) and [soundcloud](https://soundcloud.com/birds-of-hell)
 
@@ -55,7 +55,7 @@ HANK filled in on a gig with Dr Clyde and Organisms (both worth a listen) and ma
 
 My only complaint is the changing of time makes it hard for me to dance to.
 
-{% include youtube.html id='I4JHmHd6Q-w' %}
+{% include youtube id='I4JHmHd6Q-w' %}
 
 [Facebook](https://www.facebook.com/Hankmaths) and [soundcloud](https://soundcloud.com/hankmaths)
 
@@ -65,7 +65,7 @@ They might be from Suffolk but that’s local enough that they should have had a
 
 Theresin’t much about them online (I’m noticing a theme with these independent bands)  I hope next time I see them I get to see some of their projection work. The audio is a little breath-y on the video but gives you a feel for them.
 
-{% include youtube.html id='il6kuqljVpY' %}
+{% include youtube id='il6kuqljVpY' %}
 
 [Facebook](https://www.facebook.com/unwaves)[^9] and [website](https://www.facebook.com/unwaves)
 
@@ -77,7 +77,7 @@ Pop Punk acts are so fun. We would have been jumping around like idiots even if 
 
 They haven’t even been around for a year yet but have a nice little following[^11]. 🌩️
 
-{% include youtube.html id='2FORRoR4iJE' %}
+{% include youtube id='2FORRoR4iJE' %}
 
 [Website](https://wearebetterdays.com) has links to everything
 

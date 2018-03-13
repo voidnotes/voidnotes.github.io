@@ -21,11 +21,11 @@ We had arrived late so I only go to see two acts. My companion made friends in t
 
 I missed [Thy Flesh Consumed](https://thyfleshconsumed.bandcamp.com) and [Crawlblind](https://www.facebook.com/crawlblind) (who just reformed after 14 years). When I entered the room I was met by a wall of sound. The sound of Collapse the Sky. I have no idea what people are saying at most gigs so the guttural screams changed nothing.
 
-{% include youtube.html id='4bI2FZZJC8U' %}
+{% include youtube id='4bI2FZZJC8U' %}
 
 The night ended with [Thicket of Antlers](https://thicketofantlers.bandcamp.com). Great name. Enjoyable sound. I lack the words to describe genre and the skill to provide comment. All I know is that these bands exist and that most of the audience was having a good time.
 
-{% include youtube.html id='F_afYeEzXfs' %}
+{% include youtube id='F_afYeEzXfs' %}
 
 ## Worth three quid?
 
