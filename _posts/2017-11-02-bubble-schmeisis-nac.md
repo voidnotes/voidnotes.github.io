@@ -53,4 +53,4 @@ Anyway, enjoy this crude joke:
 
 {% include youtube.html id='uR1IR1iiP4Q' %}
 
-{% include footnotes.html %}
+{% include footnotes %}

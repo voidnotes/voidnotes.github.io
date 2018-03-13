@@ -92,4 +92,4 @@ This was supposed to be a fun exercise. Fun that reminds me that big data is her
 * Those sites I used to read manga on[^12]
 * Every organisation that sends crawlers onto this page
 
-{% include footnotes.html %}
+{% include footnotes %}

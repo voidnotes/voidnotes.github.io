@@ -56,4 +56,4 @@ He’s not the only one. Artist George Pérez is open about his other Robin artw
 
 Hard times for those in the popular and poorly paid industry of comics.
 
-{% include footnotes.html %}
+{% include footnotes %}

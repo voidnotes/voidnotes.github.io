@@ -20,4 +20,4 @@ I’m stealing the old explanations from goodreads.com:
 
 Note the use of “like”? It not just about the quality of a work. It’s about me. Because this is a personal project, not a professional one[^3].
 
-{% include footnotes.html %}
+{% include footnotes %}
