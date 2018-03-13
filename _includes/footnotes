@@ -1,6 +1,6 @@
 <div class="footnotes-header">
   <h2>
-    Void Notes
+    {{ page.footnotes_header | default: site.footnotes_header}}
     <a class="collapsed" data-toggle="collapse" data-target=".footnotes" aria-expanded="false" aria-controls="footnotes">
       <span class="sr-only">Toggle footnotes</span>
       <span class="small"><span class="toggleable-chevron glyphicon glyphicon-chevron-down"></span></span>

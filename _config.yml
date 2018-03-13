@@ -1,6 +1,7 @@
 title: VOID NOTES
 subtitle: Bad Ideas Factory
 description: ''
+footnotes_header: Note Void
 
 exclude:
   - Gemfile
