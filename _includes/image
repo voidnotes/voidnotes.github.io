@@ -1,0 +1,1 @@
+![{{ include.title }}]({{ include.url }}){:.center-block}{:.img-responsive}{% if include.title %}{:title="{{ include.title }}"}{% endif %}

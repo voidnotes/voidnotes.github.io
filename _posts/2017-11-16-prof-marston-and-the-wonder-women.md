@@ -32,9 +32,9 @@ I’d heard that the family had disavowed the film[^3] but I had nothing to do y
 
 I’m always surprised when films like this get made. It must have been because of the Wonder Woman movie that the posters so quietly immitate. I looked at some reviews after I watched it. These were the first two I found.
 
-![](/assets/images/2017/11/review-1.png){:.center-block}{:.img-responsive}{:title="Screenshot from the Guardian website reading "Professor Marston & the Wonder Women review - vanilla-flavoured origin story" two stars This drama about the man behind Wonder Woman lacks the kink and complexity of the real life story, with the most tasteful three-way sex scene in history"}
+{% include image url='/assets/images/2017/11/review-1.png' title='Screenshot from the Guardian website reading "Professor Marston & the Wonder Women review - vanilla-flavoured origin story" two stars This drama about the man behind Wonder Woman lacks the kink and complexity of the real life story, with the most tasteful three-way sex scene in history' %}
 
-![](/assets/images/2017/11/review-2-1.png){:.center-block}{:.img-responsive}{:title="Screenshot from the Guardian website reading "Professor Marston & the Wonder Women review - a saucy origin story" four stars Behind the wholesome saver of planets in the Marvel film [sic], there was a man with some strange ideas on love and sex"}
+{% include image url='/assets/images/2017/11/review-2-1.png' title='Screenshot from the Guardian website reading "Professor Marston & the Wonder Women review - a saucy origin story" four stars Behind the wholesome saver of planets in the Marvel film [sic], there was a man with some strange ideas on love and sex' %}
 
 The sex in this was... nice. Not like in blade runner 2049 where Ryan Gosling showed no skin[^5]. There was plenty of Luke Evans on show (a man way hotter and less grey than his historical counterpart). I liked all the costumes, too. The explorations looked fun[^6] for the participants. I was proud of the BBFC[^7] for giving it a 15 rating rather than the 18 anything with lesbians usually gets.
 
@@ -48,11 +48,11 @@ At least I can say the film kept my attention. I didn’t go on my phone and dis
 
 I don’t think this film will scandalize anyone as it was a known thing in comics fandom. The idea that Marston was inspired by pornography isn’t too hard to imagine. Look at this stuff:
 
-![](/assets/images/2017/11/20739287.jpg){:.center-block}{:.img-responsive}{:title="A panel from the old Wonder Woman comic. A woman is tying Diana to a tree saying "Now, I tie your bridle to zee tree and you stay hitched like a good little ponee!" The bridle is made of a piece of wood in Diana's mouth and golden rope. He body is tied into a sitting poison with arms wrapped around her legs, tucked into he body. It's very kinky."}
+{% include image url='/assets/images/2017/11/20739287.jpg' title="A panel from the old Wonder Woman comic. A woman is tying Diana to a tree saying \"Now, I tie your bridle to zee tree and you stay hitched like a good little ponee!\" The bridle is made of a piece of wood in Diana's mouth and golden rope. He body is tied into a sitting poison with arms wrapped around her legs, tucked into he body. It's very kinky." %}
 
 He’s not the only one. Artist George Pérez is open about his other Robin artwork. John Byrne has a sizable back catalog of brainwash rape. We can’t know if Superman artist/creator Joe Shuster was drawing these for financial need or for fetish needs but look at this:
 
-![](/assets/images/2017/11/6a00d8341c630a53ef011570111f23970b-500wi.jpg){:.center-block}{:.img-responsive}{:title="Pencil drawing by Joe Shuster. Same art style as his early superman comics. A buff man is cuffed to a post. His body stretched out and vulnerable to the whips of the black hair maid in stockings and very high heels. Behind them is a second woman. Smoking him her underwear on a chaise longue. He really looks like superman and the black haired woman has the same face as Lois Lane."}
+{% include image url='/assets/images/2017/11/6a00d8341c630a53ef011570111f23970b-500wi.jpg' title='Pencil drawing by Joe Shuster. Same art style as his early superman comics. A buff man is cuffed to a post. His body stretched out and vulnerable to the whips of the black hair maid in stockings and very high heels. Behind them is a second woman. Smoking him her underwear on a chaise longue. He really looks like superman and the black haired woman has the same face as Lois Lane.' %}
 
 Hard times for those in the popular and poorly paid industry of comics.
 
