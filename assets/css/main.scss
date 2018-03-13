@@ -73,7 +73,11 @@ body {
 
 
 
-/* Articles */
+/* Posts */
+
+.page-header {
+  text-transform: capitalize;
+}
 
 .page-content {
   font-size: 1.2em;
