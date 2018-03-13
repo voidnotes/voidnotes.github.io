@@ -2,7 +2,7 @@
 layout: post
 title: Almost chronological list of places I have fallen asleep
 date:  2017-11-02 12:00:00
-categories: jekyll update
+categories: aimee list
 ---
 
 Almost chronological list of places I have fallen asleep when I should not have done.

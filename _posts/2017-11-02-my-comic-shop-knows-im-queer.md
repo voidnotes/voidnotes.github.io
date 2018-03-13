@@ -2,7 +2,7 @@
 layout: post
 title: My comic shop knows I’m Queer
 date:  2017-11-02 13:00:00
-categories: jekyll update
+categories: comics data_horror queer
 footnotes:
   - I am going to use the word queer. It is the word used in academia (see queer studies or queer history). It is the word to use to identify myself. I find it fits better than explaining “pansexual, probably” and I will not censor the word that I used to describe me. I don’t use it to describe people I know do not like being called such. I find the LGBTQIA+ acronym family awkward and I’m not Trans* or Intersex or Plus so it feels a little odd to use that to refer to myself. Queer is a short word that says I’m not STR8 but doesn’t go into how.
   - <https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions>
