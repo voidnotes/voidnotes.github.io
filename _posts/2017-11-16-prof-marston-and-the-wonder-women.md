@@ -18,7 +18,7 @@ footnotes:
   - My policy stems from goodreads. Three means I liked it. I personally liked it
 ---
 
-> Do you ever see a sex scene and think ‘damn that must be directed by a woman’?[^1]
+##### Do you ever see a sex scene and think ‘damn that must be directed by a woman’?[^1]
 
 I assume that any Hollywood “based on a true story” is mostly bollocks and you have to not take any of it truth because how do you know which part is the germ of truth. The writer-director Angela Robinson said she wanted to “have [her] own interpretation of the story.”[^2]
 
