@@ -1,5 +1,9 @@
 ---
 layout: info
+footnotes:
+  - Not sure I can call myself a writer. I am technically writing about art but not writing with any art or technique.
+  - I can see the view count. Literally nobody has read my work other than a friend I linked to this.
+  - Hire me! I can write 200 words per hour. They might even be medium quality.
 ---
 
 # Star Ratings
@@ -16,9 +20,4 @@ I’m stealing the old explanations from goodreads.com:
 
 Note the use of “like”? It not just about the quality of a work. It’s about me. Because this is a personal project, not a professional one[^3].
 
-
-## Notes Void
-
-[^1]: Not sure I can call myself a writer. I am technically writing about art but not writing with any art or technique.
-[^2]: I can see the view count. Literally nobody has read my work other than a friend I linked to this.
-[^3]: Hire me! I can write 200 words per hour. They might even be medium quality.
+{% include footnotes.html %}

@@ -15,5 +15,9 @@
     <script src="{{ script | replace: '&quot;', '' }}"></script>
     {%- endfor -%}
     {% endif %}
+    {%- if page.footnotes -%}
+    {%- capture js_source -%}{% include footnotes.js %}{%- endcapture -%}
+    {% include content_indented.html content=js_source indent='    ' %}
+    {% endif %}
   </body>
 </html>

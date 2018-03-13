@@ -1,0 +1,15 @@
+<div class="footnotes-header">
+  <h2>
+    Void Notes
+    <a class="collapsed" data-toggle="collapse" data-target=".footnotes" aria-expanded="false" aria-controls="footnotes">
+      <span class="sr-only">Toggle footnotes</span>
+      <span class="small"><span class="toggleable-chevron glyphicon glyphicon-chevron-down"></span></span>
+    </a>
+  </h2>
+</div>
+{{ '' }}
+{%- for footnote in page.footnotes -%}
+{%- capture fn -%}[^{{ forloop.index }}]: {{ footnote }}
+{% endcapture %}
+{{ fn }}
+{% endfor %}
