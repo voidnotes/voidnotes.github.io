@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% if page.title %}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign day_int = post.date | date: '%e' -%}
+      {% capture day %}{% include number_with_suffix number=day_int %}{% endcapture %}
+      <span class="post-meta">{{ post.date | date: '%A' }} {{ day }} {{ post.date | date: '%B %Y' }}</span>
+      <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+      {{ post.excerpt }}
+    </li>
+    {% endfor %}
+  </ul>
+  {%- endif -%}
+</div>

@@ -1,0 +1,7 @@
+{%- assign num = include.number | plus: 0 -%}
+{%- assign last_digit = num | modulo: 10 -%}
+{%- if num >= 11 and num <= 13 -%}
+{{ num }}th
+{%- else -%}
+{{ num }}{% case last_digit %}{% when 1 %}st{% when 2 %}nd{% when 3 %}rd{% else %}th{% endcase %}
+{%- endif -%}
